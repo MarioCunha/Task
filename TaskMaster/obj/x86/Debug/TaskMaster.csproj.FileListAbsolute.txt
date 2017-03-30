@@ -1,0 +1,8 @@
+c:\users\mcunha\documents\visual studio 2010\Projects\TaskMaster\TaskMaster\bin\Debug\TaskMaster.exe
+c:\users\mcunha\documents\visual studio 2010\Projects\TaskMaster\TaskMaster\bin\Debug\TaskMaster.pdb
+c:\users\mcunha\documents\visual studio 2010\Projects\TaskMaster\TaskMaster\obj\x86\Debug\TaskMaster.exe
+c:\users\mcunha\documents\visual studio 2010\Projects\TaskMaster\TaskMaster\obj\x86\Debug\TaskMaster.pdb
+C:\Users\mcunha\documents\visual studio 2010\Projects\TaskMaster\TaskMaster\bin\Debug\TaskMaster.exe.config
+C:\Users\mcunha\Documents\Visual Studio 2010\Projects\TaskMaster\TaskMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mcunha\Documents\Visual Studio 2010\Projects\TaskMaster\TaskMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mcunha\documents\visual studio 2010\Projects\TaskMaster\TaskMaster\obj\x86\Debug\TaskMaster.csprojResolveAssemblyReference.cache

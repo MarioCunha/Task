@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <userid>1</userid>
+    <firstname>John</firstname>
+    <surname>Doe</surname>
+    <username>John1</username>
+    <type>Employee</type>
+    <lastlogintime>2015-01-12T12:01:34.0000000</lastlogintime>
+  </user>
+  <user>
+    <userid>2</userid>
+    <firstname>Mary</firstname>
+    <surname>Jane</surname>
+    <username>Mary23</username>
+    <type>Employee</type>
+    <lastlogintime>2014-11-01T13:45:42.0000000</lastlogintime>
+  </user>
+  <user>
+    <userid>2</userid>
+    <firstname>Mario</firstname>
+    <surname>Cunha</surname>
+    <username>Mcunha</username>
+    <type>Employee</type>
+    <lastlogintime>2017-03-30T09:00:00.0000000</lastlogintime>
+  </user>
+  <user>
+    <userid>4</userid>
+    <firstname>Ana</firstname>
+    <surname>Correia</surname>
+    <username>AnaCorr</username>
+    <type>Employee</type>
+    <lastlogintime>2017-03-30T09:00:00.0000000</lastlogintime>
+  </user>
+  <user>
+    <userid>9</userid>
+    <firstname>Shaun</firstname>
+    <surname>Stevens</surname>
+    <username>shaun</username>
+    <type>Employee</type>
+    <lastlogintime>2015-02-01T13:00:00.0000000</lastlogintime>
+  </user>
+</users>
